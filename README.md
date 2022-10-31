@@ -1,5 +1,7 @@
 # Web-Scrap-Company-Details
 <strong> We use BeautifulSoup library for web scraping </strong>
+<b>Web scraping is the process of using bots to extract content and data from a website</b>
+
 ![image-1589553330104-3887f4e1986e94fea6b7b2fbf7a2fbcb](https://user-images.githubusercontent.com/56653281/199067629-70f454ac-dacd-44b7-80b9-7aea88c74403.png)
 
 * In this Project, we scrap the company details from one of the Job portal sites.  In company details we capture following details
